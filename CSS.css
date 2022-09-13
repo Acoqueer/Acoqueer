@@ -92,5 +92,9 @@ background: linear-gradient(to top, #413089, #894F9A);
     font-family:'UniSans';   
     color: #ffffff;
   }
+    
+    .link{
+    color: #ffffff;
+    }
 
 }
